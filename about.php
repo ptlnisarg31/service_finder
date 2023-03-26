@@ -259,12 +259,11 @@
                                 </div>
                                 <div class="footer-address-inf my-4">
                                     <h4 class="ad-info mb-2">Email </h4>
-                                    <p><a href="mailto:info@example.com">info@example.com</a></p>
+                                    <p><a href="mailto:info@example.com">info@minutemaintanance.com</a></p>
                                 </div>
                                 <div class="footer-address-inf">
                                     <h4 class="ad-info mb-2">Location</h4>
-                                    <p>Gyanmanjari Group of Colleges
-Survey No.30, Sidsar Road, near Iscon Eleven, Bhavnagar, Gujarat 364001 City</p>
+                                    <p>CHARUSAT UNIVERSITY</p>
                                 </div>
                             </div>
                         </div>
@@ -272,7 +271,7 @@ Survey No.30, Sidsar Road, near Iscon Eleven, Bhavnagar, Gujarat 364001 City</p>
 
                     </div>
                     <div class="cpy-right text-left row">
-                        <p class="col-md-10">© 2019 Minute Maintanance. All rights reserved 
+                        <p class="col-md-10">© 2023 Minute Maintanance. All rights reserved 
                         </p>
                         <!-- move top icon -->
                         <a href="#home" class="move-top text-right col-md-2"><span class="fa fa-long-arrow-up" aria-hidden="true"></span></a>
