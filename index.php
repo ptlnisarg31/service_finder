@@ -19,11 +19,9 @@ session_start();
 
 <body>
 
-    <!-- Navbar Section Starts Here -->
     <?php
     include 'include/header.php';
     ?>
-    <!-- Navbar Section Ends Here -->
 
 
     <section class="food-bg">
@@ -34,39 +32,19 @@ session_start();
         <?php
         include 'include/search.php';
         ?>
-
-
-        <!-- service sEARCH Section Ends Here -->
-
-        <!-- CAtegories Section Starts Here -->
         <?php
         include 'include/services-mini.php';
 
         ?>
 
-        <!-- Categories Section Ends Here -->
-
-
-
-
         <?php
         include 'include/minicategories.php';
 
         ?>
-
-
-       
-
-        <!-- footer Section Starts Here -->
-
-        <!-- social Section Starts Here -->
         <?php
         include 'include/footer.php';
         ?>
-        <!-- social Section Ends Here -->
-
-
-        <!-- footer Section Ends Here -->
+      
 
 </body>
 
