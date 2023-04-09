@@ -177,7 +177,7 @@ $i++;
 
               <div class="credits">
                
-                Designed by <a href="https://bootstrapmade.com/">by Team Minute Maintanance</a>
+                Designed by by Team Minute Maintanance
               </div>
 
             </div>

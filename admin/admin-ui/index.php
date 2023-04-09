@@ -336,7 +336,7 @@ $sql="SELECT * FROM `order` WHERE w_id=$w_id";
                       <tr>
                         <th scope="col">Order ID</th>
                         <th scope="col">Customer Name</th>
-                        <th scope="col">Product</th>
+                        <th scope="col">Address</th>
                         <th scope="col">Price</th>
                         <th scope="col">Status</th>
                       </tr>
@@ -409,7 +409,7 @@ $sql="SELECT * FROM `order` WHERE w_id=$w_id";
                       <tr>
                         <th scope="col">Order ID</th>
                         <th scope="col">Customer Name</th>
-                        <th scope="col">Product</th>
+                        <th scope="col">Address</th>
                         
                         
                       </tr>
